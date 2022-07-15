@@ -3,5 +3,3 @@ oracle
 aws
 devops
 LINUX
-python
-extra line added
