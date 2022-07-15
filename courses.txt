@@ -3,7 +3,5 @@ oracle
 aws
 devops
 LINUX
-<<<<<<< HEAD
-=======
 python
->>>>>>> parent of fa68f0d (Update courses.txt)
+something
